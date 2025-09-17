@@ -37,27 +37,6 @@ checkpoints/
 transformers_cache/
 huggingface_hub/
 
-# Data and Images
-images/
-data/
-datasets/
-*.jpg
-*.jpeg
-*.png
-*.bmp
-*.tiff
-*.tif
-*.gif
-*.webp
-
-# Output Files
-*.csv
-fashion_colors_combined.csv
-fashion_analysis_sample.png
-results/
-output/
-visualizations/
-
 # Virtual Environments
 env/
 venv/
